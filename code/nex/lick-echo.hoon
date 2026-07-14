@@ -13,7 +13,7 @@
       %+  spin:loader  ball
       :~  (manifest:loader 0)
           [%fall %& [/ %'echo.sig'] [[/ %sig] ~]]
-          [%over %& [/man %'readme.md'] [[/ %mime] man]]
+          [%over %& [/ %'readme.md'] [[/ %mime] man]]
       ==
     ::
     ++  on-file
